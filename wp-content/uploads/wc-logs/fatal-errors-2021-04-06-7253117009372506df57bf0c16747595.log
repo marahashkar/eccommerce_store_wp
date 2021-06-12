@@ -1,0 +1,4 @@
+2021-04-06T09:53:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp641\www\storewp\wp-includes\Requests\Transport\fsockopen.php on line 123
+
+2021-04-06T09:53:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp641\www\storewp\wp-content\plugins\woolentor-addons\includes\addons\universal_product.php on line 4
+

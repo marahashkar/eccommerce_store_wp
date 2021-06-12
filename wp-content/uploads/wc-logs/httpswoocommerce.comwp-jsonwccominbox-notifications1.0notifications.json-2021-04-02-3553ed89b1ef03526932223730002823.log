@@ -1,0 +1,67 @@
+2021-04-02T12:01:32+00:00 ERROR Error getting remote inbox notification data feed
+2021-04-02T12:01:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: No such host is known. )
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2021-04-02T16:08:19+00:00 ERROR Error getting remote inbox notification data feed
+2021-04-02T16:08:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => Response could not be parsed
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2021-04-02T16:09:01+00:00 ERROR Error getting remote inbox notification data feed
+2021-04-02T16:09:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => Response could not be parsed
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+

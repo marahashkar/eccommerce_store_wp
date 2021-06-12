@@ -1,0 +1,4 @@
+2021-04-04T14:56:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp641\www\storewp\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.asset.php on line 1
+
+2021-04-04T14:58:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 6295552 bytes) in C:\wamp641\www\storewp\wp-includes\functions.php on line 3955
+

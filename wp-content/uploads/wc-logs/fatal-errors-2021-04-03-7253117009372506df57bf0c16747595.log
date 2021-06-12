@@ -1,0 +1,4 @@
+2021-04-03T18:24:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp641\www\storewp\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-importers.php on line 15
+
+2021-04-03T18:24:58+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in C:\wamp641\www\storewp\wp-content\themes\astra\inc\compatibility\class-astra-amp.php on line 224
+
